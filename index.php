@@ -224,7 +224,7 @@
     <div id="empty"></div>
     <footer>
         <div class="footer black" >
-                            Copyright 2020
+                 ©2020 ThePortal
         </div>
     </footer>
 </body>

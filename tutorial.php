@@ -27,7 +27,7 @@
                     <div class="menu-items row x-center">
                         <div class="title-2-data menu-items col slate-gray-4"><a href="dev.php">TECHNOLOGY</a></div> &nbsp;&nbsp;
                         <div class="title-2-data menu-items col slate-gray-4"><a href="tech.php">DEVELOPMENT</a></div>&nbsp;&nbsp;
-                        <div class="title-2-data menu-items col slate-gray-4"><a href="index.php">TUTORIALS</a></div>
+                        <div class="title-2-data menu-items col slate-gray-4"><a href="tutorial.php">TUTORIALS</a></div>
                     </div>
                 </div> 
                 <div class="row pull-right y-center">
@@ -94,7 +94,7 @@
     <div id="empty"></div>
     <footer>
         <div class="footer black" >
-                            Copyright 2020
+            ©2020 ThePortal
         </div>
     </footer>
 </body>
