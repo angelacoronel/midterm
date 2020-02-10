@@ -194,6 +194,13 @@ body {
 .footer {
   height: 6vh;
   width: 99.9%;
+  color: #f2f2f2;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  padding-top: 15px;
+  font-family: 'Maitree', serif;
+  font-size: 14px;
 }
 nav a {
   text-decoration: none;
