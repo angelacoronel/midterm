@@ -19,8 +19,12 @@ body {
 .body{
   font-family: 'Maitree', serif;
 }
+.greeting-text{
+  font-size: 2.5rem;
+  line-height: 1rem;
+}
 .header-size{
-  font-size: 30px;
+  font-size: 2rem;
   line-height: 1rem;
 }
 
@@ -51,7 +55,7 @@ body {
   display: flex;
   flex-direction: column;
   border: 0px solid black;
-  width: 98.75vw;
+  width: contain;
   justify-content: center;
 }
 .wrap a{
@@ -68,7 +72,7 @@ body {
 .wrap1 {
   display: flex;
   border: 0px solid black;
-  width: 98.75vw;
+  width: contain;
   justify-content: center;
 }
 .wrap1 a{
@@ -200,7 +204,7 @@ body {
   justify-content: center;
   padding-top: 15px;
   font-family: 'Maitree', serif;
-  font-size: 14px;
+  font-size: 0.8rem;
 }
 nav a {
   text-decoration: none;
@@ -212,11 +216,11 @@ nav a {
 #hero {
   border: 0px solid red;
   height: 90vh;
-  width: 98.75vw;
+  width: contain;
   background-image: url("../images/heroo.png");
-  background-size: 60%;
+  background-size: 50%;
   background-repeat: no-repeat;
-  background-position-y: 100%;
+  background-position-y: 50%;
   background-position-x: 90%;
   z-index: -1;
   background-color: #7e47d2;
@@ -229,9 +233,9 @@ nav a {
 #hero1 {
   border: 0px solid red;
   height: 60vh;
-  width: 98.75vw;
+  width: contain;
   background-image: url("../images/heroo.png");
-  background-size: 60%;
+  background-size: 50%;
   background-repeat: no-repeat;
   background-position-y: 50%;
   background-position-x: 90%;
@@ -271,15 +275,15 @@ nav a {
 
 .hero-header {
   font-family: 'Changa', sans-serif;
-  line-height: 2.5rem;
+  line-height: 3rem;
   color: #f2f2f2;
   font-weight: Bold;
-  font-size: 50px;
+  font-size: 3.5rem;
   margin-bottom: 35vh;
   margin-left: 5vw;
 }
 .hero-header p {
-  font-size: 15px;
+  font-size: 1rem;
   font-weight: lighter;
   font-family: 'Offside', cursive;
   line-height: 1.5rem;
@@ -287,14 +291,14 @@ nav a {
 .hero-header1 {
   font-family: 'Changa', sans-serif;
   font-weight: Bold;
-  font-size: 50px;
-  margin-bottom: 20vh;
+  font-size: 3.5rem;
+  margin-bottom: 25vh;
   margin-left: 5vw;
-  line-height: 2.5rem;
+  line-height: 3rem;
   color: #f2f2f2;
 }
 .hero-header1 p {
-  font-size: 15px;
+  font-size: 1rem;
   font-weight: lighter;
   font-family: 'Offside', cursive;
   line-height: 1.5rem;
