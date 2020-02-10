@@ -47,8 +47,8 @@
     <!--hero img-->
         <div id="hero1">
             <div class="hero-header1">
-                Development<br>News.
-                <p>Check out the latest news for Web,  <br>Software, and Mobile Development.</p>
+                Development News.
+                <p>Check out the latest news for Web, Software, and Mobile <br>Development.</p>
             </div>
         </div>
         <div class="wrap1">

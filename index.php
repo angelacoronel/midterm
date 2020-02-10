@@ -57,13 +57,14 @@
                 Your gateway to <br>
                 Tech-knowledge-y.
                 <!--credits to ledesma-->
-                <p>A portal that connects you to the <br> latest news on technology, <br> development, etc.</p>
+                <p></p>
+                <p>A portal that connects you to the latest news on <br> technology, development, etc.</p>
             </div>
         </div>
         <div class="wrap">
             <div id="greeting-box-wrapper">
                 <div id="greeting-box">
-                        <h1 class="header"><?php
+                        <h1 class="title greeting-text"><?php
                             date_default_timezone_set("Asia/Hong_Kong"); 
                             $time = date("H");
                             $timezone = date("e");

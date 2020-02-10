@@ -45,8 +45,8 @@
     <!--hero img-->
         <div id="hero1">
             <div class="hero-header1">
-                Tutorials and <br>Guides.
-                <p>Learn and improve your tech skills and<br>knowledge through these guides <br>and tutorials.</p>
+                Tutorials & Guides.
+                <p>Learn and improve your tech skills and knowledge through <br> these guides and tutorials.</p>
             </div>
         </div>
         <div class="wrap1">

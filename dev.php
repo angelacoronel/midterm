@@ -53,7 +53,7 @@
     <!--hero img-->
         <div id="hero1">
             <div class="hero-header1">
-                Technology<br>News.
+                Technology News.
                 <p>Check out the latest news on technology.</p> 
             </div>
         </div>
