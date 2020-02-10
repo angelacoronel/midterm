@@ -102,7 +102,7 @@
 .title-2-accent{
     font-family: 'Changa', sans-serif;
     Font-weight: Bold;
-    Font-Size: 24px;
+    Font-Size: 1.5rem;
 }
 .line{
     margin: auto 2rem;
@@ -113,7 +113,7 @@
 .title-2-data a{
     font-family: 'Changa', sans-serif;
     Font-Style: Regular;
-    Font-Size: 16px;
+    Font-Size: 1rem;
 }
 .title-2-data a:hover{
     color:#7e47d2;
