@@ -23,7 +23,7 @@
     <link href="https://fonts.googleapis.com/css?family=Changa|Maitree|Offside&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/nav.css">
-    <title>Document</title>
+    <title>ThePortal</title>
 </head>
 <body>
     <!--nav bar-->
