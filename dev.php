@@ -22,7 +22,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/nav.css">
-    <title>Document</title>
+    <title>ThePortal</title>
 </head>
 <body>
     <!--nav bar-->
